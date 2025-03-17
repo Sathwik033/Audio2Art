@@ -1,2 +1,2 @@
 # Audio2Art
-This is my Smart Internz Hackathon project
+This is my Smart Internz X Nasccom Gen AI Hackathon project
